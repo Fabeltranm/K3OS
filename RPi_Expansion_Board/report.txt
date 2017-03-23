@@ -1,0 +1,146 @@
+Información: Leyendo el archivo de lista de redes "D:\creatvra\kit3\shields\RPi_Expansion_Board\RPi_Hat_k3.net".
+
+Información: Utilizando referencias para combinar componentes y huellas.
+
+Error: No se ha definido huella para el componente 'P1'.
+
+Información: Comprobando la huella del componente de la red "3VCC1:/5515D395/58CCD060:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "5VCC1:/5515D395/58CCD2B3:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C1:/5515D395/58CD3F00:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C2:/5515D395/58CD4334:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C3:/5515D395/58CD4381:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C4:/5515D395/58CD43D5:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C5:/5515D395/58CD94E9:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C6:/5515D395/58CD94EF:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C7:/5515D395/58CD94F5:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C8:/5515D395/58CD94FB:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C9:/5515D395/58D1327A:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "C10:/5515D395/58D132F2:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "GND1:/5515D395/58CCD32A:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "GND2:/5515D395/58CD8EE3:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "GPIO_G1:/5515D395/58CC6007:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "GPIO_G2:/5515D395/58CC61F2:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "GPIO_G3:/5515D395/58CC68D8:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "GPIO_G4:/5515D395/58CC68E2:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "I2C1:/5515D395/58CCA6A5:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "I2C2:/5515D395/58CC135A:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "I2C3:/5515D395/58CC2070:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "J1:/5515D395/5515D39E:RPi_Hat:Samtec_HLE-120-02-XXX-DV-BE-XX-XX".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "34" de "GND" a "GPIO13".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "36" de "GPIO16" a "GPIO19".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "40" de "GPIO21" a "Net-(J1-Pad40)".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "38" de "GPIO20" a "GPIO26".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "18" de "GPIO24" a "Net-(J1-Pad18)".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "20" de "GND" a "SPI_MOSI".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "24" de "SPI_CE0_N" a "SPI_CLK".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "22" de "GPIO25" a "SPI_MISO".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "30" de "GND" a "GPIO05".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "32" de "GPIO12" a "GPIO06".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "28" de "SCL2" a "SDA2".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "26" de "SPI_CE1_N" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "10" de "RX_UART" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "12" de "GPIO18" a "GPIO17".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "16" de "GPIO23" a "GPIO22".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "14" de "GND" a "GPIO27".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "6" de "GND" a "SCL1".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "8" de "TX_UART" a "GPIO04".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "4" de "+5V" a "SDA1".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "2" de "+5V" a "+3V3".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "39" de "" a "GPIO21".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "37" de "GPIO26" a "GPIO20".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "33" de "GPIO13" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "35" de "GPIO19" a "GPIO16".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "27" de "SDA2" a "SCL2".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "25" de "GND" a "SPI_CE1_N".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "29" de "GPIO05" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "31" de "GPIO06" a "GPIO12".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "23" de "SPI_CLK" a "SPI_CE0_N".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "21" de "SPI_MISO" a "GPIO25".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "17" de "" a "GPIO24".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "19" de "SPI_MOSI" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "3" de "SDA1" a "+5V".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "1" de "+3V3" a "+5V".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "5" de "SCL1" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "7" de "GPIO04" a "TX_UART".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "15" de "GPIO22" a "GPIO23".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "13" de "" a "GND".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "9" de "GND" a "RX_UART".
+
+Cambiando del componente "J1:/5515D395/5515D39E" el nombre de la red del pin "11" de "GPIO17" a "GPIO18".
+
+Información: Comprobando la huella del componente de la red "P1:/5515D395/58D143A0:".
+
+Error: No se puede añadir el nuevo componente "P1:/5515D395/58D143A0" ya que le falta la huella "".
+
+Información: Comprobando la huella del componente de la red "SPI1:/5515D395/58CBE578:Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "SPI2:/5515D395/58CC29A1:Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm".
+
+Información: Comprobando la huella del componente de la red "UART1:/5515D395/58CBF9DC:Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm".
+
+Eliminar la red "GPIO27" de un solo pad en "J1" pad '14'
+
+Eliminar la red "Net-(J1-Pad18)" de un solo pad en "J1" pad '18'
+
+Eliminar la red "Net-(J1-Pad40)" de un solo pad en "J1" pad '40'
+
