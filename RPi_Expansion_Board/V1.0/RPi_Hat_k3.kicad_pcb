@@ -2273,7 +2273,7 @@
   (segment (start 103.251 70.612) (end 104.14 69.723) (width 0.25) (layer F.Cu) (net 14) (tstamp 58D29ADB))
   (segment (start 104.14 69.723) (end 105.8164 69.723) (width 0.25) (layer F.Cu) (net 14) (tstamp 58D29ADC))
   (segment (start 105.8164 69.723) (end 107.061 68.4784) (width 0.25) (layer F.Cu) (net 14) (tstamp 58D29ADD))
-  (segment (start 124.841 95.25) (end 123.444 95.25) (width 0.25) (layer B.Cu) (net 15) (status 400000))
+  (segment (start 124.841 95.25) (end 123.444 95.25) (width 0.25) (layer B.Cu) (net 15))
   (segment (start 122.428 90.297) (end 117.348 85.217) (width 0.25) (layer B.Cu) (net 15) (tstamp 58D3E400))
   (segment (start 122.428 94.234) (end 122.428 90.297) (width 0.25) (layer B.Cu) (net 15) (tstamp 58D3E3FC))
   (segment (start 123.444 95.25) (end 122.428 94.234) (width 0.25) (layer B.Cu) (net 15) (tstamp 58D3E3FA))
@@ -2481,28 +2481,6 @@
   (segment (start 112.141 115.189) (end 109.601 115.189) (width 0.25) (layer B.Cu) (net 40) (tstamp 58D14647))
   (segment (start 109.601 115.189) (end 107.061 115.189) (width 0.25) (layer B.Cu) (net 40) (tstamp 58D14648))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 58D3E2AB) (hatch edge 0.508)
-    (connect_pads (clearance 0.3))
-    (min_thickness 0.3)
-    (keepout (tracks not_allowed) (vias not_allowed) (copperpour not_allowed))
-    (fill (arc_segments 16) (thermal_gap 0.2) (thermal_bridge_width 0.2))
-    (polygon
-      (pts
-        (xy 102.87 102.235) (xy 102.87 117.348) (xy 130.175 117.348) (xy 130.175 102.235)
-      )
-    )
-  )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 58D3E2AE) (hatch edge 0.508)
-    (connect_pads (clearance 0.3))
-    (min_thickness 0.3)
-    (keepout (tracks not_allowed) (vias not_allowed) (copperpour not_allowed))
-    (fill (arc_segments 16) (thermal_gap 0.2) (thermal_bridge_width 0.2))
-    (polygon
-      (pts
-        (xy 102.87 102.235) (xy 102.87 117.348) (xy 130.175 117.348) (xy 130.175 102.235)
-      )
-    )
-  )
   (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 58D3E5D2) (hatch edge 0.508)
     (connect_pads yes (clearance 0.5))
     (min_thickness 0.2)
