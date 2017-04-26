@@ -4922,9 +4922,9 @@
 <hole x="57.932" y="59.23725" drill="2.8"/>
 <hole x="57.932" y="29.3135" drill="2.8"/>
 <hole x="57.929" y="-0.67375" drill="2.8"/>
-<hole x="99.4" y="59.23725" drill="2.28"/>
 <hole x="99.4" y="29.3135" drill="2.8"/>
 <hole x="99.4" y="-0.67375" drill="2.8"/>
+<hole x="99.4" y="59.23725" drill="2.8"/>
 </plain>
 <libraries>
 <library name="LilyPad-Wearables">
