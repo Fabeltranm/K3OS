@@ -12,7 +12,7 @@
 #   $ sudo pip install max7219
 # 2. Please check camera and SPI operation.
 #
-# PINES:
+# PINS:
 # > Ultrasound HC-SR04:
 #   - ECHO: GPIO 23
 #   - TRIG: GPIO 24
