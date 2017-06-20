@@ -1,11 +1,10 @@
 #
+# >>> DEMO ULTRASONIC PHOTO
 # K3os based Ubuntu Mate
 #
 # @Fabeltranm
-# @luiszener
+# @luizener
 # @raparram
-#
-# >>> DEMO ULTRASONIC PHOTO
 #
 # PREVIOUS STEPS:
 # 1. Install the latest version of the library directly from PyPI:   
