@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RPi_Expansion_Board)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name RpiHat)(type KiCad)(uri "$(KIPRJMOD)\\RpiHat.pretty")(options "")(descr ""))
+)
